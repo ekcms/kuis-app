@@ -11,10 +11,7 @@ export enum SearchType1 {
   issn = 'Issn',
   subject = 'Subject',
   call_number = 'call number',
-  series = 'Series',
-  summary = 'Summary',
-  language = 'Language',
-  dissertationnote = 'DissertationNote'
+  series = 'Series'
 }
 
 export enum SearchType2 {
@@ -24,10 +21,7 @@ export enum SearchType2 {
   issn = 'issn',
   subject = 'subject',
   call_number = 'call number',
-  series = 'series',
-  summary = 'Summary',
-  language = 'Language',
-  dissertationnote = 'DissertationNote'
+  series = 'series'
 }
 
 export enum SearchType3 {
@@ -50,10 +44,7 @@ export enum SearchType4 {
   issn = 'issn',
   subject = 'subject',
   call_number = 'call number',
-  series = 'series',
-  summary = 'Summary',
-  language = 'Language',
-  dissertationnote = 'DissertationNote'
+  series = 'series'
 }
 
 export enum SearchType5 {
@@ -63,10 +54,7 @@ export enum SearchType5 {
   issn = 'issn',
   subject = 'subject',
   call_number = 'call number',
-  series = 'series',
-  summary = 'Summary',
-  language = 'Language',
-  dissertationnote = 'DissertationNote'
+  series = 'series'
 }
 
 export enum Operators1 {

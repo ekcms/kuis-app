@@ -49,7 +49,7 @@ export class LoginAuthPage implements OnInit {
     setTimeout(() => {
         this.loading.dismiss();
         console.log(this.code);
-        if (this.code === '010'){
+        if (this.code === '011'){
           if (this.validateInputs){
             // tslint:disable-next-line: deprecation
             this.authService.login(this.postData).subscribe((res: any) => {

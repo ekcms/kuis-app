@@ -8,7 +8,7 @@
 
 export const environment = {
   production: true,
-  apiUrl: 'http://pustaka.upsi.edu.my:5003/'
+  apiUrl: 'http://192.168.100.101:8081/'
   };
 
 /*
